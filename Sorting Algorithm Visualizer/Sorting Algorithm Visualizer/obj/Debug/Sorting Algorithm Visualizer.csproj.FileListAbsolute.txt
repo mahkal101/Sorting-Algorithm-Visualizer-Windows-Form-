@@ -1,9 +1,0 @@
-C:\Users\Mike Sal\source\repos\Sorting Algorithm Visualizer\Sorting Algorithm Visualizer\bin\Debug\Sorting Algorithm Visualizer.exe.config
-C:\Users\Mike Sal\source\repos\Sorting Algorithm Visualizer\Sorting Algorithm Visualizer\bin\Debug\Sorting Algorithm Visualizer.exe
-C:\Users\Mike Sal\source\repos\Sorting Algorithm Visualizer\Sorting Algorithm Visualizer\bin\Debug\Sorting Algorithm Visualizer.pdb
-C:\Users\Mike Sal\source\repos\Sorting Algorithm Visualizer\Sorting Algorithm Visualizer\obj\Debug\Sorting Algorithm Visualizer.csprojAssemblyReference.cache
-C:\Users\Mike Sal\source\repos\Sorting Algorithm Visualizer\Sorting Algorithm Visualizer\obj\Debug\Sorting_Algorithm_Visualizer.Form1.resources
-C:\Users\Mike Sal\source\repos\Sorting Algorithm Visualizer\Sorting Algorithm Visualizer\obj\Debug\Sorting_Algorithm_Visualizer.Properties.Resources.resources
-C:\Users\Mike Sal\source\repos\Sorting Algorithm Visualizer\Sorting Algorithm Visualizer\obj\Debug\Sorting Algorithm Visualizer.csproj.GenerateResource.cache
-C:\Users\Mike Sal\source\repos\Sorting Algorithm Visualizer\Sorting Algorithm Visualizer\obj\Debug\Sorting Algorithm Visualizer.exe
-C:\Users\Mike Sal\source\repos\Sorting Algorithm Visualizer\Sorting Algorithm Visualizer\obj\Debug\Sorting Algorithm Visualizer.pdb
